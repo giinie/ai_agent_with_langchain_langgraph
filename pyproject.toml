@@ -1,0 +1,13 @@
+[project]
+name = "ai-agent-test"
+version = "0.1.0"
+description = "Practice for AI Agent"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.72",
+    "langchain-experimental>=0.3.4",
+    "langchain-openai>=0.3.28",
+    "langchain-text-splitters>=0.3.9",
+]
